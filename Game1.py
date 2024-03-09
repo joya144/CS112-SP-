@@ -1,4 +1,3 @@
-#File:CS112_A1_T2_Game1_20230110
 #Purpose:the player who reaches to number 100 first is the winner
 #Author:Joy alaa fathy sadkey
 #ID:20230110
